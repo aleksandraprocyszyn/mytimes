@@ -1,0 +1,17 @@
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+
+.header span{
+  color: MediumAquamarine;
+  display: inline-flex;
+  padding: 20px;
+}
+
+.nav li{
+  list-style-type: none;
+  display: inline-flex;
+}
